@@ -1,5 +1,5 @@
-Flask==2.0.1
-crawl4ai==0.4.248
-Pillow==8.3.1
-gunicorn==20.1.0
-requests==2.26.0
+Flask
+crawl4ai
+Pillow
+gunicorn
+requests
